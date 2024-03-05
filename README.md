@@ -1,15 +1,24 @@
 ### Hi there 👋
 
 
-Paper Replicate:
+# Paper Replicate:
 - [Transformer from scratch]()
 - [Vision Transformer from scratch]()
+- [BERT from scratch]()
+- [GPT from scratch]()
 
 
 
-Basic:
-* [Image Classfication](https://github.com/JAZ201107/Image-Classification)
+# Computer Vision:
+* [Image Classification](https://github.com/JAZ201107/Image-Classification)
 
+# Natural Language Processing
+* [Text Classification]()
+* [Machine Translation]()
+
+# Multi Model
+* [Image Caption]()
+* 
 <!--
 **JAZ201107/JAZ201107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
