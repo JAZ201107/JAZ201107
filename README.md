@@ -2,36 +2,33 @@
 
 
 # Paper Replicate:
-- [Attentions from scratch](https://github.com/JAZ201107/DL-Experiments/blob/main/understand-and-visualize-attention-mechanism.ipynb)
-- [Transformer from scratch]()
-- [Vision Transformer from scratch](https://github.com/JAZ201107/DL-Experiments/blob/main/build-classic-cnn-and-vit-from-scratch.ipynb)
-- [BERT from scratch]()
-- [GPT from scratch]()
+- 🔴 [Attentions from scratch](https://github.com/JAZ201107/DL-Experiments/blob/main/understand-and-visualize-attention-mechanism.ipynb)
+- 🔴 [Transformer from scratch]()
+- 🔴 [Vision Transformer from scratch](https://github.com/JAZ201107/DL-Experiments/blob/main/build-classic-cnn-and-vit-from-scratch.ipynb)
+- 🔴 [BERT from scratch]()
+- 🔴 [GPT from scratch]()
+- 🔴 CLIP from scratch
+- 🔴 Byte-pair encoding from scratch
 
 
 
 
 # Computer Vision:
-* [Image Classification](https://github.com/JAZ201107/Image-Classification)
+* 🟢 [Image Classification](https://github.com/JAZ201107/Image-Classification)
+* 🔴 Image Super Resolution
+* 🔴 Object Detection
 
 # Natural Language Processing
-* [Text Classification]()
-* [Machine Translation]()
+* 🔴 [Text Classification]()
+* 🔴 [Machine Translation]()
+* 🔴 Sequence Labeling
+
 
 # Multi Model
-* [Image Caption]()
+* 🔴 [Image Caption]()
 * 
-<!--
-**JAZ201107/JAZ201107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Un-supervised Learning
+* 🔴 Autoencoder for CIRAR-10
+* 🔴 SimCLR for CIRAR-10
+* 
