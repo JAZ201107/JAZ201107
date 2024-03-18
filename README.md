@@ -26,10 +26,10 @@
 
 
 # Multi Model
-* 🔴 [Image Caption]()
+* 🟢 [Image Caption](https://github.com/JAZ201107/Image-Caption)
 * 
 
 # Un-supervised Learning
-* 🔴 Autoencoder for CIRAR-10
-* 🔴 SimCLR for CIRAR-10
-* 
+* 🔴 Autoencoder for CIFAR-10
+* 🔴 SimCLR for CIFAR-10
+* 🔴 SupCon* for CIFAR-10
