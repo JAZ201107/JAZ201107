@@ -4,14 +4,14 @@
 
 # Paper Replicate:
 - 🔴 [Attentions from scratch](https://github.com/JAZ201107/DL-Experiments/blob/main/understand-and-visualize-attention-mechanism.ipynb)
+  - 🟢 [Image Caption with Bahdanau Attention](https://github.com/JAZ201107/DL-Experiments/blob/main/image-caption-with-attention-flicker8k.ipynb)
+  - 🔴 [Image Caption with Transformer Decoder]
 - 🔴 [Transformer from scratch]()
 - 🔴 [Vision Transformer from scratch](https://github.com/JAZ201107/DL-Experiments/blob/main/build-classic-cnn-and-vit-from-scratch.ipynb)
 - 🔴 [BERT from scratch]()
 - 🔴 [GPT from scratch]()
 - 🔴 CLIP from scratch
 - 🔴 Byte-pair encoding from scratch
-
-
 
 
 # Computer Vision:
@@ -27,7 +27,7 @@
 
 # Multi Model
 * 🟢 [Image Caption](https://github.com/JAZ201107/Image-Caption)
-* 
+  
 
 # Un-supervised Learning
 * 🔴 Autoencoder for CIFAR-10
