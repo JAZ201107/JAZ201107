@@ -10,7 +10,7 @@
 - 🔴 [Vision Transformer from scratch](https://github.com/JAZ201107/DL-Experiments/blob/main/build-classic-cnn-and-vit-from-scratch.ipynb)
 - 🔴 [BERT from scratch]()
 - 🔴 [GPT from scratch]()
-- 🔴 CLIP from scratch
+- 🔴 [CLIP from scratch](https://github.com/JAZ201107/DL-Experiments/blob/main/CLIP_from_scratch.ipynb)
 - 🔴 Byte-pair encoding from scratch
 
 
