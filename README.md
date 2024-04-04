@@ -16,6 +16,7 @@
 
 # Computer Vision:
 * 🟢 [Image Classification](https://github.com/JAZ201107/Image-Classification)
+* 🟢 [Classic CNN (ResNet, DenseNet, ...) from scratch](https://github.com/JAZ201107/DL-Experiments/blob/main/build-classic-cnn-from-scratch.ipynb)
 * 🔴 Image Super Resolution
 * 🔴 Object Detection
 
