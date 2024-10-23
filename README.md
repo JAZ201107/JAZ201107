@@ -1,5 +1,5 @@
 ### Hi there 👋
-(Here is my [🪐 knowledge planet](https://publish.obsidian.md/yuyangzhang/Home))
+(Here is my [🪐 Blog](https://jaz201107.github.io/))
 
 
 # Paper Replicate:
@@ -13,6 +13,8 @@
 - 🟢 [CLIP from scratch](https://github.com/JAZ201107/DL-Experiments/blob/main/CLIP_from_scratch.ipynb)
 - 🔴 Byte-pair encoding from scratch
 
+# Reinforcement Learning 
+- Deep Q-Learning
 
 # Computer Vision:
 * 🟢 [Image Classification](https://github.com/JAZ201107/Image-Classification)
