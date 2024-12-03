@@ -50,16 +50,12 @@
     <tr>
       <td>Row 1</td>
       <td>
-        <table>
           <tr><td>Sub Row 1-1</td></tr>
           <tr><td>Sub Row 1-2</td></tr>
-        </table>
       </td>
       <td>
-        <table>
           <tr><td>Sub Row 1-1</td></tr>
           <tr><td>Sub Row 1-2</td></tr>
-        </table>
       </td>
     </tr>
     <tr>
