@@ -36,3 +36,9 @@
 * 🔴 Autoencoder for CIFAR-10
 * 🔴 SimCLR for CIFAR-10
 * 🔴 SupCon* for CIFAR-10
+
+
+| Header 1 | Header 2         | Header 3 |
+|----------|------------------|----------|
+| Row 1    | <table><tr><td>Sub Row 1</td></tr><tr><td>Sub Row 2</td></tr></table> | Value   |
+| Row 2    | Regular Value    | Value    |
