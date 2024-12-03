@@ -38,7 +38,7 @@
 * 🔴 SupCon* for CIFAR-10
 
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table>
   <thead>
     <tr>
       <th>Header 1</th>
