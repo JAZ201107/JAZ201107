@@ -38,7 +38,7 @@
 * 🔴 SupCon* for CIFAR-10
 
 
-<table>
+<table border="1" style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
       <th>Header 1</th>
@@ -48,15 +48,13 @@
   </thead>
   <tbody>
     <tr>
-      <td>Row 1</td>
-      <td>
-          <tr><td>Sub Row 1-1</td></tr>
-          <tr><td>Sub Row 1-2</td></tr>
-      </td>
-      <td>
-          <tr><td>Sub Row 1-1</td></tr>
-          <tr><td>Sub Row 1-2</td></tr>
-      </td>
+      <td rowspan="2" style="text-align: center; vertical-align: middle;">Row 1</td>
+      <td>Sub Row 1-1</td>
+      <td>Sub Row 1-1</td>
+    </tr>
+    <tr>
+      <td>Sub Row 1-2</td>
+      <td>Sub Row 1-2</td>
     </tr>
     <tr>
       <td>Row 2</td>
@@ -65,4 +63,5 @@
     </tr>
   </tbody>
 </table>
+
 
