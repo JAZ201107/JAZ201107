@@ -38,7 +38,35 @@
 * 🔴 SupCon* for CIFAR-10
 
 
-| Header 1 | Header 2         | Header 3 |
-|----------|------------------|----------|
-| Row 1    | <table><tr><td>Sub Row 1</td></tr><tr><td>Sub Row 2</td></tr></table> | Value   |
-| Row 2    | Regular Value    | Value    |
+<table>
+  <thead>
+    <tr>
+      <th>Header 1</th>
+      <th>Header 2</th>
+      <th>Header 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Row 1</td>
+      <td>
+        <table>
+          <tr><td>Sub Row 1-1</td></tr>
+          <tr><td>Sub Row 1-2</td></tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr><td>Sub Row 1-1</td></tr>
+          <tr><td>Sub Row 1-2</td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td>Row 2</td>
+      <td>Regular Value</td>
+      <td>Regular Value</td>
+    </tr>
+  </tbody>
+</table>
+
