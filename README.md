@@ -15,7 +15,8 @@
     </tr> 
   </thead>
   <tbody>
-    <th colspan="5" style="text-align: center; vertical-align: middle;" > <strong>Computer Vision</strong> </th>
+    <th colspan="6" style="text-align: center; vertical-align: middle;" > <strong>Computer Vision</strong> </th>
+    
     <tr>
       <td rowspan="2" style="text-align: center; vertical-align: middle;">Image Segmentation</td>
       <td>Sub Row 1-1</td>
@@ -30,6 +31,12 @@
       <td>Regular Value</td>
       <td>Regular Value</td>
     </tr>
+    <th colspan="6" style="text-align: center; vertical-align: middle;" > <strong>Natural Langue Processing</strong> </th>
+
+
+
+
+    <th colspan="6" style="text-align: center; vertical-align: middle;" > <strong>Multi Model</strong> </th>
   </tbody>
 </table>
 
