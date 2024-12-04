@@ -15,7 +15,7 @@
     </tr> 
   </thead>
   <tbody>
-    <tr colspan="6" style="text-align: center; vertical-align: middle;" > <strong>Computer Vision</strong> </tr>
+    <th colspan="5" style="text-align: center; vertical-align: middle;" > <strong>Computer Vision</strong> </th>
     <tr>
       <td rowspan="2" style="text-align: center; vertical-align: middle;">Image Segmentation</td>
       <td>Sub Row 1-1</td>
