@@ -31,8 +31,11 @@
       <td>Regular Value</td>
     </tr>
     <th colspan="6" style="text-align: center; vertical-align: middle;" > <strong>Natural Langue Processing</strong> </th>
+    <tr> </tr>
     <th colspan="6" style="text-align: center; vertical-align: middle;" > <strong>Reinforcement Learning</strong> </th>
+    <tr> </tr>
     <th colspan="6" style="text-align: center; vertical-align: middle;" > <strong>Multi Model</strong> </th>
+    <tr> </tr>
   </tbody>
 </table>
 
