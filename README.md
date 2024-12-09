@@ -15,7 +15,7 @@
     </tr> 
   </thead>
   <tbody>
-    <th colspan="6" style="text-align: center; vertical-align: middle;" > <strong>Computer Vision</strong> </th>
+    <th colspan="6" style="text-align: center; vertical-align: middle; line-height: 50px;" > <strong>Computer Vision</strong> </th>
     <tr> 
       <td rowspan="1" style="text-align: center; vertical-align: middle;">Image Classification</td>
       <td> <a href="https://arxiv.org/abs/2010.11929" target="_blank"> An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale </td>
@@ -25,7 +25,7 @@
       <td> ⭐⭐⭐⭐⭐ </td>
     </tr>
     <tr>
-      <td rowspan="2" style="text-align: center; vertical-align: middle;">Image Segmentation</td>
+      <td rowspan="2" style="text-align: center; vertical-align: middle; line-height: 50px;">Image Segmentation</td>
       <td>Sub Row 1-1</td>
       <td>Sub Row 1-1</td>
     </tr>
@@ -38,11 +38,11 @@
       <td>Regular Value</td>
       <td>Regular Value</td>
     </tr>
-    <th colspan="6" style="text-align: center; vertical-align: middle;" > <strong>Natural Langue Processing</strong> </th>
+    <th colspan="6" style="text-align: center; vertical-align: middle; line-height: 50px;" > <strong>Natural Langue Processing</strong> </th>
     <tr> </tr>
-    <th colspan="6" style="text-align: center; vertical-align: middle;" > <strong>Reinforcement Learning</strong> </th>
+    <th colspan="6" style="text-align: center; vertical-align: middle; line-height: 50px;" > <strong>Reinforcement Learning</strong> </th>
     <tr> </tr>
-    <th colspan="6" style="text-align: center; vertical-align: middle;" > <strong>Multi Model</strong> </th>
+    <th colspan="6" style="text-align: center; vertical-align: middle; line-height: 50px;" > <strong>Multi Model</strong> </th>
     <tr> 
       <td> </td>
       <td> <a href="https://arxiv.org/abs/2103.00020" target="_blank"> Learning Transferable Visual Models From Natural Language Supervision </td>
