@@ -25,9 +25,17 @@
       <td> ⭐⭐⭐⭐⭐ </td>
     </tr>
     <tr>
-      <td rowspan="2" style="text-align: center; vertical-align: middle; line-height: 50px;">Image Segmentation</td>
-      <td>Sub Row 1-1</td>
-      <td>Sub Row 1-1</td>
+      <td rowspan="2" style="text-align: center; vertical-align: middle;">Image Segmentation</td>
+      <td> <a href="https://arxiv.org/abs/1505.04597" target="_blank"> U-Net: Convolutional Networks for Biomedical Image Segmentation </td>
+      <td> U-Net is a convolutional neural network architecture designed for biomedical image segmentation, excelling in capturing fine-grained details. </td>
+      <td> <a href="https://github.com/JAZ201107/PyTorch-DL/blob/main/U_Net.ipynb" target="_blank"> U-Net Jupyter Notebook </a> </td>
+      <td>  </td>
+      <td> ⭐⭐⭐⭐⭐ </td>
+      <td> <a href="https://arxiv.org/abs/1804.03999" target="_blank"> Attention U-Net: Learning Where to Look for the Pancreas </td>
+      <td> Attention U-Net enhances U-Net by integrating attention mechanisms, allowing the model to focus on relevant regions for improved image segmentation.</td>
+      <td> <a href="https://github.com/JAZ201107/PyTorch-DL/blob/main/U_Net.ipynb" target="_blank"> U-Net Jupyter Notebook </a> </td>
+      <td>  </td>
+      <td> ⭐⭐⭐ </td>
     </tr>
     <tr>
       <td>Sub Row 1-2</td>
