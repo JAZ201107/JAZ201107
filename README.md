@@ -35,7 +35,7 @@
     <tr>
       <td> <a href="https://arxiv.org/abs/1804.03999" target="_blank"> Attention U-Net: Learning Where to Look for the Pancreas </td>
       <td> Attention U-Net enhances U-Net by integrating attention mechanisms, allowing the model to focus on relevant regions for improved image segmentation.</td>
-      <td> <a href="https://github.com/JAZ201107/PyTorch-DL/blob/main/U_Net.ipynb" target="_blank"> U-Net Jupyter Notebook </a> </td>
+      <td> <a href="https://github.com/JAZ201107/PyTorch-DL/blob/main/Attention_U_Net.ipynb" target="_blank"> Attention U-Net Jupyter Notebook </a> </td>
       <td>  </td>
       <td> ⭐⭐⭐ </td>
     </tr>
