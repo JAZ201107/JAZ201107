@@ -17,7 +17,7 @@
   <tbody>
     <th colspan="6" style="text-align: center; vertical-align: middle;" > <strong>Computer Vision</strong> </th>
     <tr> 
-      <td rowspan="2" style="text-align: center; vertical-align: middle;">Image Classification</td>
+      <td rowspan="1" style="text-align: center; vertical-align: middle;">Image Classification</td>
       <td> <a href="https://arxiv.org/abs/2010.11929" target="_blank"> An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale </td>
       <td> Vision Transformers (ViT) apply Transformer models to image recognition by processing images as patch sequences </td>
       <td> <a href="https://github.com/JAZ201107/PyTorch-DL/blob/main/ViT.ipynb" target="_blank"> ViT Jupyter Notebook </a> </td>
